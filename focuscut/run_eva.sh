@@ -1,0 +1,2 @@
+# CUDA_VISIBLE_DEVICES=0 python main.py -v -r focuscut-resnet101.pth -ap "backbone='resnet101'" -hrv -dv SBD -e 10
+python main.py -v -r /home/lztmp2/FOCUSCUT/focuscut_jittor/snapshot/hrcnet_base_[-rf -ap backbone='resnet101']_[2025-05-12_20:04:06]/model-epoch-019.pth -ap "backbone='resnet101'" -hrv -dv GrabCut -e 10

@@ -1,0 +1,1 @@
+python annotator.py --backbone resnet --input test.jpg --output test_mask.jpg 

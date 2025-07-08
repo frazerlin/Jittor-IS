@@ -1,0 +1,10 @@
+jittor
+scipy
+scikit-image
+matplotlib
+pycocotools
+tqdm
+opencv-python
+
+
+
