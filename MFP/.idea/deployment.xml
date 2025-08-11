@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@10.137.144.40:46300 password (2)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="root@10.137.144.40:40646 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:40646 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:45990 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46136 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46136 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46136 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46136 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46136 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46300 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/a/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@10.137.144.40:46300 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/data-tmp/a/MFP" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
